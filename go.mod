@@ -3,13 +3,13 @@ module M-usicM-anager
 go 1.26.1
 
 require (
-	github.com/bogem/id3v2/v2 v2.1.4
+	github.com/bogem/id3v2/v2 v2.1.5
 	github.com/dhowden/tag v0.0.0-20240417053706-3d75831295e8
-	github.com/gin-gonic/gin v1.12.0
-	github.com/golang-migrate/migrate/v4 v4.19.1
-	github.com/jmoiron/sqlx v1.4.0
+	github.com/gin-gonic/gin v1.12.4
+	github.com/golang-migrate/migrate/v4 v4.19.2
+	github.com/jmoiron/sqlx v1.4.1
 	github.com/joho/godotenv v1.5.1
-	github.com/lib/pq v1.12.2
+	github.com/lib/pq v1.12.3
 )
 
 require (
